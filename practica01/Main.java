@@ -15,11 +15,22 @@ public class Main {
 //        ej2.leerDatos();
 //        ej2.calcularX();
 
+
 //        Ejercicio3 ej3 = new Ejercicio3();
 //        ej3.montoFinal(ej3.leerMonto());
 
-        Ejercicio7 ej7 = new Ejercicio7();
-        JOptionPane.showMessageDialog(null, ej7.leerDatos());
+
+//        JOptionPane.showMessageDialog(null, Ejercicio4.EstadoEnCuotas());
+
+
+//        Ejercicio7 ej7 = new Ejercicio7();
+//        JOptionPane.showMessageDialog(null, ej7.leerDatos());
+
+
+        Ejercicio5 ej5 = new Ejercicio5();
+        ej5.leerDatos();
+        ej5.Calcular();
+        
     }
     
 }
